@@ -1,0 +1,2 @@
+1. Go with snapshots & then check there respective codes.
+2. Run codes in pycharm or any other IDE.
