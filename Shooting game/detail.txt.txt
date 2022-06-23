@@ -1,0 +1,1 @@
+Here i have created a shooting game using pygame. i set 27 FPS to this game. please download the code & run in your terminal.
