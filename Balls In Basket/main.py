@@ -24,7 +24,7 @@ ball_score = 10
 ball_speed = 300
 ball_interval = 2000
 difficulty = 0.95
-catcher_color = "blue"
+catcher_color = "brown"
 catcher_width = 100
 catcher_height = 100
 catcher_startx = canvas_width / 2 - catcher_width / 2
@@ -33,7 +33,7 @@ catcher_startx2 = catcher_startx + catcher_width
 catcher_starty2 = catcher_starty + catcher_height
 
 catcher = c.create_arc(catcher_startx, catcher_starty, catcher_startx2, catcher_starty2, start=200, extent=140,
-                       style="arc", outline=catcher_color, width=3)
+                       style="arc", outline=catcher_color, width=4)
 game_font = font.nametofont("TkFixedFont")
 game_font.config(size=18)
 
